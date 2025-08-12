@@ -38,6 +38,7 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this app integrates t
 
 <img width="1920" height="1013" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/34a7aac3-b0b8-4930-a89b-ebe06d1e945d" />
 
+
 <img width="1894" height="1017" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0051c3f9-65bf-44b2-acfd-2675ac764293" />
 
 
@@ -55,7 +56,7 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this app integrates t
 
 1. HTML5 → Structure & semantic markup
 
-2.Tailwind CSS → Styling & responsive design
+2. Tailwind CSS → Styling & responsive design
 
 3. JavaScript (ES6+) → Logic, API calls, and DOM manipulation
 
