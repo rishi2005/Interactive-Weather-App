@@ -46,7 +46,7 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this app integrates t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Interactive-Weather-App
+   git clone https://github.com/yourusername/Interactive-Weather-App.git
    
 2.Open index.html in your browser.
 
