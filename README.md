@@ -73,4 +73,8 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this app integrates t
 🔔 Weather alerts & notifications
 
 EXPLORE THE PROJECT:
-interactive-weather-app-virid.vercel.app
+
+## Live Demo  
+
+[Click here to view the Interactive Weather App](https://interactive-weather-app-virid.vercel.app)
+
