@@ -71,3 +71,6 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this app integrates t
 🌙 Dark/Light mode toggle
 
 🔔 Weather alerts & notifications
+
+EXPLORE THE PROJECT:
+interactive-weather-app-virid.vercel.app
